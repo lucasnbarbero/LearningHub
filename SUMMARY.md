@@ -6,4 +6,4 @@
 - [Vue.js](vue/README.md)
   - Testing
     - [Nombramiento de pruebas](vue/testing/nombramiento-de-pruebas.md)
-    - [Testing de Composables](vue/composables-testing.md)
+    - [Testing de Composables](vue/testing/composables-testing.md)
