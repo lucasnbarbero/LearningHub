@@ -21,7 +21,7 @@
 - Backend
 - DevOps y Herramientas
 
-  - [Ejemplo práctico](devops/ejemplo-practico-trazabilidad.md)
+  - [Ejemplo práctico de trazabilidad](devops/ejemplo-practico-trazabilidad.md)
 
 - Testing y QA
   - Metodologías de pruebas
