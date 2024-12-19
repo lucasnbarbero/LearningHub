@@ -1,5 +1,5 @@
 # Table of contents
 
 * [LearningHub](README.md)
-* [Otra página](otra-pagina/README.md)
-  * [Página Hija](otra-pagina/pagina-hija.md)
+* [Trazabilidad de Software](trazabilidad-de-software/README.md)
+  * [Ejemplo práctico](trazabilidad-de-software/ejemplo-practico-trazabilidad.md)
