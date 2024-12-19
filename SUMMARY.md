@@ -5,23 +5,23 @@
 
   - Conceptos Generales
 
-    - [Trazabilidad de Software](trazabilidad-de-software/README.md)
+    - [Trazabilidad de Software](fundamentos/conceptos-generales/trazabilidad-software.md)
 
   - Buenas prácticas
 
-    - [Nombramiento de pruebas](vue/testing/nombramiento-de-pruebas.md)
+    - [Nombramiento de pruebas](fundamentos/buenas-practicas/nombramiento-de-pruebas.md)
 
 - Frontend
 
   - Vue.js
 
-    - [Estructuras de proyecto](vue/estructura-de-proyectos.md)
-    - [Testing de Composables](vue/testing/composables-testing.md)
+    - [Estructuras de proyecto](frontend/vue/estructura-de-proyectos.md)
+    - [Testing de Composables](frontend/vue/composables-testing.md)
 
 - Backend
 - DevOps y Herramientas
 
-  - [Ejemplo práctico](trazabilidad-de-software/ejemplo-practico-trazabilidad.md)
+  - [Ejemplo práctico](devops/ejemplo-practico-trazabilidad.md)
 
 - Testing y QA
   - Metodologías de pruebas
