@@ -24,6 +24,7 @@
   - [Ejemplo práctico de trazabilidad](devops/ejemplo-practico-trazabilidad.md)
 
 - Testing y QA
+  - [Mejores prácticas](testing-qa/mejores-practicas.md)
   - Metodologías de pruebas
   - Herramientas de pruebas
 - Recursos y Referencias
